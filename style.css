@@ -1,0 +1,51 @@
+.coco {
+  margin: 500px;
+  text-align: center;
+  font-family: 'helvetica', helvetica;
+  font-weight: bold;
+  font-size: 4em;
+  color: black;
+  background-color: white;
+}
+.header {
+  text-align: center;
+  font-family: 'times new roman', times new roman;
+  font-weight: bold;
+  font-size: 1em;
+  color: black;
+  background-color: white;
+  position: relative;
+  top: -60%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -350px;
+  width: 700px;
+  height: 100px;
+}
+.bordered {
+    width: 1600px;
+    height: 1400px;
+    padding: 20px;
+    border: 20px solid black;
+  }
+
+.rose{
+  float:right;
+  margin: 0px 1150px 0px 0px
+}
+.dress{
+  float:right;
+  margin: -200px 950px 0px 0px
+}
+.necklace{
+  float:right;
+  margin: -200px 750px 0px 0px
+}
+.jacket{
+  float:right;
+  margin: -200px 550px 0px 0px
+}
+.lipstick{
+  float:right;
+  margin: -200px 350px 0px 0px
+}
